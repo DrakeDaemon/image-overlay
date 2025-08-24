@@ -34,12 +34,23 @@ Image Overlay is a lightweight desktop application that allows you to display tr
 
 ### Steps
 
-   1. Clone or download this project
+   1. Clone or download this project:
 
-   2. Install required dependencies:
+```
+git clone https://github.com/DrakeDaemon/image-overlay.git 
+cd dota-overlay
+```
+
+   3. Install required dependencies:
     
 ```
 pip install -r requirements.txt
+```
+
+   3. Run the app:
+
+```
+python main.py
 ```
 
 ## ⚙️ Configuration
