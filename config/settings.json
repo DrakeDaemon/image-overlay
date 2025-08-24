@@ -1,0 +1,8 @@
+{
+    "image_path": "assets/default_overlay.png",
+    "overlay_enabled": false,
+    "scale_factor": 0.5,
+    "movable": false,
+    "position_x": 0,
+    "position_y": 0
+}
